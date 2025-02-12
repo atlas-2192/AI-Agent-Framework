@@ -159,10 +159,3 @@ Please do!
 
 If you're considering a contribution, please check out the [contributing
 guide](./CONTRIBUTING.md).
-
-# Planned Work
-
-[See the issues page.](https://github.com/operand/agency/issues)
-
-If you have any suggestions or otherwise, feel free to add an issue or open a
-[discussion](https://github.com/operand/agency/discussions).
